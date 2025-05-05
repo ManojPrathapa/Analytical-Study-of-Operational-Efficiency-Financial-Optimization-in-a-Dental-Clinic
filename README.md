@@ -65,8 +65,3 @@ Several methods and tools were applied:
 - Charts: Bar graphs, Pareto chart, and slot utilization diagrams.
 
 ---
-
-## 📚 Acknowledgments
-
-This project was completed as part of the Business Decision Modeling coursework under the guidance of [Faculty Name, if applicable]. Special thanks to Dr. Ragini Kiran Meka and the Aadya Family Dental Center staff for their cooperation and data sharing.
-
